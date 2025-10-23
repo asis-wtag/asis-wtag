@@ -1,6 +1,6 @@
 # Hi 👋 I'm Ashik
 
-I'm a Full-Stack Software Engineer at WellDev who specializes in building scalable, secure web applications with a focus on robust backend systems and clean frontends, leveraging my problem solving and competitive programming expertise.
+Full-Stack Engineer at WellDev, learning and building scalable web applications with clean, maintainable code.
 
 [![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-%2324292e.svg?style=flat&logo=github&logoColor=white)](https://github.com/Mohammad-Ashikul-Islam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007bff.svg?style=flat&logo=google-chrome&logoColor=white)](https://ashikul-islam.netlify.app)
