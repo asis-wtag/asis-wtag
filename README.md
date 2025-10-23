@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Software Engineer at WellDev who specializes in building scalable, secure web applications with a focus on robust backend systems and clean frontends, leveraging my problem solving and competitive programming expertise.
 
-[![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-%2324292e.svg?style=flat&logo=github&logoColor=white)]([https://github.com/asis-wtag](https://github.com/Mohammad-Ashikul-Islam))
+[![Personal GitHub](https://img.shields.io/badge/Personal_GitHub-%2324292e.svg?style=flat&logo=github&logoColor=white)](https://github.com/Mohammad-Ashikul-Islam)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23007bff.svg?style=flat&logo=google-chrome&logoColor=white)](https://ashikul-islam.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mdashikul2222)
 [![X](https://img.shields.io/badge/X-%231DA1F2.svg?style=flat&logo=twitter&logoColor=white)](https://x.com/mdashikul2222)
